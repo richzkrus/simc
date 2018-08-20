@@ -1,0 +1,101 @@
+# SimC Addon 1.10.4
+
+rogue="Рогбг"
+level=120
+race=human
+region=eu
+server=gordunni
+role=attack
+professions=herbalism=150/skinning=150
+talents=2112323
+spec=outlaw
+
+head=,id=155888,bonus_id=4818/1497/4785,azerite_powers=479/44
+neck=,id=158075,bonus_id=4933/4936/4929/1504,azerite_level=17
+shoulder=,id=159323,bonus_id=4819/1512/4786,azerite_powers=480
+back=,id=159294,bonus_id=4778/4802/41/1502/4781
+chest=,id=158038,bonus_id=1532/5138,azerite_powers=478/31
+shirt=,id=52019
+wrist=,id=158305,bonus_id=4778/1497/4785
+hands=,id=159321,bonus_id=4778/1512/4784
+waist=,id=159301,bonus_id=4779/1512/4786
+legs=,id=159345,bonus_id=4778/43/1497/4785
+feet=,id=159336,bonus_id=4779/1512/4786
+finger1=,id=158314,bonus_id=4778/42/1497/4785
+finger2=,id=158362,bonus_id=4778/4802/1517/4784
+trinket1=,id=159628,bonus_id=4779/1512/4786
+trinket2=,id=159623,bonus_id=4779/1522/4783
+main_hand=,id=159661,bonus_id=4778/1497/4785
+off_hand=,id=158710,bonus_id=4803/1517/4785
+
+### Gear from Bags
+#
+# Головной покров Кровавой заводи (325)
+# head=,id=157881,bonus_id=1517/4785,azerite_powers=
+#
+# Капюшон скользкого лоа (325)
+# head=,id=159318,bonus_id=4818/1497/4785,azerite_powers=410/86
+#
+# Клобук глубоких манипуляций (325)
+# head=,id=159302,bonus_id=4818/1497/4785,azerite_powers=
+#
+# Придаз, величайшее творение Ксаварика (265)
+# neck=,id=132444,bonus_id=3459/3630
+#
+# Оплечье искусного убийцы (265)
+# shoulder=,id=144236,bonus_id=1811/3630
+#
+# Наплечные пластины Кровавой заводи (325)
+# shoulder=,id=157883,bonus_id=1517/4785,azerite_powers=
+#
+# Грязные перчатки для разделки слуг (335)
+# hands=,id=159346,bonus_id=4778/4802/1507/4783
+#
+# Опояска азеритового арсенала (340)
+# waist=,id=159333,bonus_id=4779/1512/4786
+#
+# Секрет Сефуза (265)
+# finger1=,id=132452,enchant_id=5428,gem_id=151583,bonus_id=3459/3630
+#
+# Пылкое желание Кил'джедена (265)
+# trinket1=,id=144259,bonus_id=1811/3630
+#
+# Живость Голганнета (280)
+# trinket1=,id=154174,bonus_id=3984/3997
+#
+# Крохотный электроменталь в банке (325)
+# trinket1=,id=158374,bonus_id=4778/1497/4785
+#
+# Компас ныряльщика за жемчугом (340)
+# trinket1=,id=158162,bonus_id=4803/1532/4786
+#
+# Подзорная труба первого помощника (325)
+# trinket1=,id=158163,bonus_id=4803/1517/4785
+#
+# Золоченая статуэтка лоа (325)
+# trinket1=,id=158153,bonus_id=4803/1517/4785
+#
+# Вертел бармена (273)
+# main_hand=,id=160451,bonus_id=4776/41,drop_level=120
+#
+# Кровавое преимущество (325)
+# main_hand=,id=159635,bonus_id=4778/1497/4785
+#
+# Нож для потрошения торговца рыбой (298)
+# main_hand=,id=158298,bonus_id=4813,drop_level=120
+#
+# Клинок стаи (325)
+# main_hand=,id=158714,bonus_id=4778/1497/4785
+#
+# Вертел бармена (273)
+# off_hand=,id=160451,bonus_id=4776/41,drop_level=120
+#
+# Кровавое преимущество (325)
+# off_hand=,id=159635,bonus_id=4778/1497/4785
+#
+# Нож для потрошения торговца рыбой (298)
+# off_hand=,id=158298,bonus_id=4813,drop_level=120
+#
+# Клинок стаи (325)
+# off_hand=,id=158714,bonus_id=4778/1497/4785
+#
